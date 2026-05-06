@@ -1,6 +1,6 @@
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Joblib
-- Streamlit
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Joblib
+Streamlit
